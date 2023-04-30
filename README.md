@@ -1,20 +1,25 @@
+please import tokobuka.sql to your sql server!!
+
+<hr>
+
 ### Admin
 
-<br>
 username => admin
 
 password => !1Qwqwqwqwqwqwqw
 
+<hr>
+
 ### Customer
 
-<br>
 username => customer2
 
 password => Customer2
 
+<hr>
+
 ### Staff
 
-<br>
 username => staf1111
 
 password => Staf1111
